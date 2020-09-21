@@ -17,9 +17,10 @@ class Login extends Component {
           <button>Sign In</button>
         </form>
         <div className="overlay-container"></div>
+        <div>new name</div>
       </div>
     );
   }
 }
-
+// 새로운  커밋 확인
 export default Login;
