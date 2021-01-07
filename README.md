@@ -1,3 +1,3 @@
 # Self-Project
 
-project test
+toy project
